@@ -1,3 +1,3 @@
-# GeneticAlgorithm
+# CellularAotmata
 
 ![Example screenshot](./img/ca.gif)
